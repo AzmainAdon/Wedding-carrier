@@ -1,5 +1,10 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    background: pink;
+    background: rgba(95, 226, 185, 0.815);
+}
+
+
+.bag{
+    background: rgba(95, 226, 185, 0.815);
 }
