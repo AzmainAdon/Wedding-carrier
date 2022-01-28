@@ -9,6 +9,9 @@ body{
     background: rgba(95, 226, 185, 0.815);
 }
  
+.linkdin{
+    background: blueviolet;
+}
 
 .opt p{
     font-size: smaller;
